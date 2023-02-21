@@ -47,21 +47,31 @@ public class starSigns {
         }
         System.out.println(""); 
     }
-    //Define method which uses printStars method to create a Triangle
+    /**
+     * method which uses printStars method to create a Triangle
+     * @param size of the height of the triangle
+     */
     public static void printTriangle(int size){
         for (int i = 1; i <= size; i++){
             printStars(i);
         }
         System.out.println("");
     }
-    //create a method that prints spaces without a linebreak
+    
+    /**
+     * method that prints spaces without a linebreak
+     * @param number of spaces to be printed
+     */
     public static void printSpaces(int number){
         for (int i = 1; i <= number; i++){
             System.out.print(" ");
         }
         
     }
-    // using printSpaces method and printStars method print an inverted Triangle
+    /** using printSpaces method and printStars method print an inverted Triangle
+     * 
+     * @param size the hieght of the triangle to be printed
+     */
     public static void printRightTriangle(int size){
         for (int i = 1; i <= size; i++){
             printSpaces(size - i);
@@ -70,6 +80,10 @@ public class starSigns {
 
     }
 
+    /**
+     * method that uses printStars and printSpaces to print a Christmas tree
+     * @param size The height of the Christmas Tree to print
+     */
     public static void printChristmasTree(int size){
         int whitespace = size;
         for (int i=1; i <= size; i++){
