@@ -27,16 +27,15 @@ public class ThirdElement{
         //close scanner
         s.close();
 
-        
         //print out the third element in the list
         if (nameList.size() < 4){
             System.out.println("Error: There are not enough names! You must add at least 4 names to the list.");
         }
         else {
             System.out.println("The third element on the list is: " + nameList.get (2));
-        }
-  
-        
+            System.out.println("The last item in the list is: " + nameList.get(nameList.size()-1));
+        }  
 
     }
+
 }
