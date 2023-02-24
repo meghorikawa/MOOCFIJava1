@@ -2,11 +2,13 @@
 Practice exercises for the Java 1 course through University of Helsinki
 
 ## Part 2
-# Loops, Methods, Dividing Program into smaller parts
+### Loops, Methods, Dividing Program into smaller parts
 - **Star Sign** and **Advanced Astrology** Exercises which practices calling a method within a method to create different printed shapes. 
 
 ## Part 3
 ### Discovering Errors, Array Lists, Using Strings
+
+#### Array Lists: 
 
 - **Third Element** an exercise which uses array list to take continout entry from the user and return the third element.
 
@@ -20,10 +22,25 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **numRange** complete printNumbersInRange and sum methods which will print the numbers in the list which are within the given range input by the user, as well as the total sum of the numbers in the list.
 
+- **stringRemove** complete the stringRemove method to remove the last item in a list
+
+#### Arrays: 
+- **swap** swap two values in a given array
+
+- **indexNotFound** search an array for a value and return the indices it is located at.
+
+- **arrayMethods** class used to complete the sum, print, and printInStars methods for the given array.
+
+
+
 ## Part 4
+### Intro. to OOP, Objects in a list, Files & Reading Data (I/O streams)
 
 ## Part 5
+### Learning OOP, Removing Repetitive Code, Primitive & Reference Values, Objects & References
 
 ## Part 6
+### Objects on a list & a list as part of an object, Separating the UI from program Logic, Intro to testing, Complex programs
 
 ## Part 7
+### Programming paradigms, Algorithms, Larger programming exercises
