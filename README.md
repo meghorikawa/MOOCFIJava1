@@ -38,6 +38,8 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **nameOfTheOldest* a class that will receive input of a name and age and split the input into an array and will then return the name of the oldest child
 
+- **averageBirthYear** a class that receives input from the uder and calculates the average birth year. 
+
 ## Part 4
 ### Intro. to OOP, Objects in a list, Files & Reading Data (I/O streams)
 
