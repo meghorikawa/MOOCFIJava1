@@ -31,7 +31,12 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **arrayMethods** class used to complete the sum, print, and printInStars methods for the given array.
 
+#### Using Strings
+- **lineByLine** a class that takes input and will split the string by whitespace and print it onto seperate lines
 
+- **ageOfTheOldest* a class that will receive input of a name and age and split the input into an array and will then return the oldest age
+
+- **nameOfTheOldest* a class that will receive input of a name and age and split the input into an array and will then return the name of the oldest child
 
 ## Part 4
 ### Intro. to OOP, Objects in a list, Files & Reading Data (I/O streams)
