@@ -54,7 +54,6 @@ public class arrayMethods {
 
     public static void printArrayInStars (int[] array){
         int index = 0;
-        int numOfStars = 0;
         
         //iterate through each value of the array
         while (index < array.length){

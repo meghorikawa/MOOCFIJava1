@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class ErrorChecking {
 
-    public static public static void main(String[] args) {
+    public static void main(String[] args) {
 
-        Scanner x = new scanner(System.in);
+        Scanner x = new Scanner(System.in);
         System.out.print("Customer number: ");
         int y = Integer.valueOf(x.nextLine());
 
@@ -22,5 +22,7 @@ public class ErrorChecking {
         else {
             System.out.println("Gets nothing.");
         }
+        x.close();
     }
+
 }
