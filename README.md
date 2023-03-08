@@ -41,7 +41,11 @@ Practice exercises for the Java 1 course through University of Helsinki
 - **averageBirthYear** a class that receives input from the uder and calculates the average birth year. 
 
 ## Part 4
-### Intro. to OOP, Objects in a list, Files & Reading Data (I/O streams)
+### Intro. to OOP
+
+- **PaymentCard** class that will manage a payment cards with balance.  contains constructor, toString, eatAffordibly, and eatHeartily methods. 
+
+### Objects in a list, Files & Reading Data (I/O streams)
 
 ## Part 5
 ### Learning OOP, Removing Repetitive Code, Primitive & Reference Values, Objects & References
