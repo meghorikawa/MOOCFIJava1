@@ -56,6 +56,8 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **Book** class that will recieve a title, author and page count of a book. 
 
+- **Fitbyte** class that will calculate the target heart rate by the given age and resting heart rate of a person. 
+
 ### Removing Repetitive Code, Primitive & Reference Values, Objects & References
 
 ## Part 6
