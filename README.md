@@ -45,10 +45,18 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **PaymentCard** class that will manage a payment cards with balance.  contains constructor, toString, eatAffordibly, and eatHeartily methods. 
 
+- **Books** Book class which saves the title, page count, and publication year of books. 
+
 ### Objects in a list, Files & Reading Data (I/O streams)
 
 ## Part 5
-### Learning OOP, Removing Repetitive Code, Primitive & Reference Values, Objects & References
+### Learning OOP 
+
+- **Timer** class that implements a time with two hands (seconds and hundreths seconds) and uses a Clockhand class to advance the timer. 
+
+- **Book** class that will recieve a title, author and page count of a book. 
+
+### Removing Repetitive Code, Primitive & Reference Values, Objects & References
 
 ## Part 6
 ### Objects on a list & a list as part of an object, Separating the UI from program Logic, Intro to testing, Complex programs
