@@ -60,6 +60,8 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 ### Removing Repetitive Code, Primitive & Reference Values, Objects & References
 
+- **Cardpayment** a program which models a university cafeteria payment system, where a card or cash maybe accepted, tracks number of meals purchased, money in till, and allows for adding money to card balance.
+
 ## Part 6
 ### Objects on a list & a list as part of an object, Separating the UI from program Logic, Intro to testing, Complex programs
 
