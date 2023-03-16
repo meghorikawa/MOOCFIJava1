@@ -62,6 +62,16 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **Cardpayment** a program which models a university cafeteria payment system, where a card or cash maybe accepted, tracks number of meals purchased, money in till, and allows for adding money to card balance.
 
+- **Books* generates a user inputed book list. If dublicate's are added an error message appears.
+
+- **Archive** generates a list of item #'s and names to form a list, then prints out the entire list without duplicates (duplicate entries are enteries where the item# is the same, even if the item name differs)
+
+
+- **DatingApp** uses the Simple date class to advance dates in a calendar year. 
+
+- **Money** a class which handles money as two seperate integers (euro and cents) 
+
+
 ## Part 6
 ### Objects on a list & a list as part of an object, Separating the UI from program Logic, Intro to testing, Complex programs
 

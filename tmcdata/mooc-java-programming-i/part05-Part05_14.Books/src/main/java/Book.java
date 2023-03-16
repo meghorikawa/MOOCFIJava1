@@ -17,4 +17,21 @@ public class Book {
         return publicationYear;
     }
 
+    public boolean equals(Object compare){
+        if (this == compare){
+            return true;
+        }
+        if (! (compare instanceof Book)){
+            return false;
+        }
+
+        Book comparedBook = (Book) compare;
+
+        if (this.name.equals(comparedBook.name) && this.publicationYear == comparedBook.publicationYear){
+            return true;
+        }
+        
+        return false;
+    }
+
 }
