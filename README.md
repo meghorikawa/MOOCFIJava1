@@ -73,7 +73,32 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 
 ## Part 6
-### Objects on a list & a list as part of an object, Separating the UI from program Logic, Intro to testing, Complex programs
+### Objects on a list & a list as part of an object 
+- **Menu** - a program to maintain a menu list that includes methods of adding to the menu and clearing the menu.
+
+- **Stack** create a stack class that you can take from the top of the list. 
+
+
+- **MessagingService**
+- **Printing a Collection**
+- **Santa's Workshop**
+- **Longest in collection**
+- **Height Order**
+- **Cargo Hold**
+
+### Separating the UI from program Logic 
+- **Simple Dictionary**
+- **To do List**
+- **Averages**
+- **Joke Manager**
+
+### Intro to testing
+
+- **Exercises**
+
+### Complex programs
+
+no exercises just a quiz
 
 ## Part 7
 ### Programming paradigms, Algorithms, Larger programming exercises
