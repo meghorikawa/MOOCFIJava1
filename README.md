@@ -78,11 +78,13 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **Stack** create a stack class that you can take from the top of the list. 
 
+- **MessagingService**  creates a list of messages that are submitted to the messaging service as long as they are less than 280 characters. 
 
-- **MessagingService**
-- **Printing a Collection**
-- **Santa's Workshop**
-- **Longest in collection**
+- **Printing a Collection** overide the toString method so it will print the contents of the list on a new line.
+
+- **Santa's Workshop** contains a gift and package class to manage a gift list and the weight of the total gifts
+
+- **Longest in collection** 
 - **Height Order**
 - **Cargo Hold**
 
