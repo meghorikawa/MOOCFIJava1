@@ -84,9 +84,11 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **Santa's Workshop** contains a gift and package class to manage a gift list and the weight of the total gifts
 
-- **Longest in collection** 
-- **Height Order**
-- **Cargo Hold**
+- **Longest in collection** added a method to iterate the Arraylist and return the longest string in the list. 
+
+- **Height Order** implementation of a class, room which can hold objects of Person class. there are method implemented that can return a list of all persons in the room and remove the shortest person in the room  
+
+- **Cargo Hold** a program which implements the Item, Suitcase and Hold classes which manages the max weights of the suitcase and hold. 
 
 ### Separating the UI from program Logic 
 - **Simple Dictionary**
