@@ -91,8 +91,10 @@ Practice exercises for the Java 1 course through University of Helsinki
 - **Cargo Hold** a program which implements the Item, Suitcase and Hold classes which manages the max weights of the suitcase and hold. 
 
 ### Separating the UI from program Logic 
-- **Simple Dictionary**
-- **To do List**
+- **Simple Dictionary** Dictionary class which holds a word and its finnish translation. includes a UI that is executed on a loop until the user types "stop"
+
+- **To do List**  a class which implements a to do list and methods to remove and add things to the list. 
+
 - **Averages**
 - **Joke Manager**
 
