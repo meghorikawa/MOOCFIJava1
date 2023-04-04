@@ -102,7 +102,7 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 ### Intro to testing
 
-- **Exercises**
+- **Exercises** JUnit testing tutorial to practice test driven development. Where the Junit tests were included and from there the other classes were written. 
 
 ### Complex programs
 
