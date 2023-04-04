@@ -95,8 +95,10 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **To do List**  a class which implements a to do list and methods to remove and add things to the list. 
 
-- **Averages**
-- **Joke Manager**
+- **Averages** a UI which will take input grade information that can then be used to calculate the average of the grades.
+
+
+- **Joke Manager** a UI which includes a joke manager class which saves jokes in an Array list and will also allow you to access a random joke and print the entire list. 
 
 ### Intro to testing
 
