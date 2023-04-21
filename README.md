@@ -104,9 +104,19 @@ Practice exercises for the Java 1 course through University of Helsinki
 
 - **Exercises** JUnit testing tutorial to practice test driven development. Where the Junit tests were included and from there the other classes were written. 
 
-### Complex programs
-
-no exercises just a quiz
 
 ## Part 7
-### Programming paradigms, Algorithms, Larger programming exercises
+
+### Programming paradigms 
+- **Liquid Containers** a class which uses Procedural Programming to manage the ammounts of liquid in a container
+-**Liquid Containers 2.0** a class which implements OOP to manage liquid in two containers
+
+### Algorithms 
+- **Sorting**
+- **Ready-made Sorting Algorithms**
+- **Searching**
+
+### Larger programming exercises
+- **Grade statistics**
+- **Recipe Search**
+- **Big Year**
