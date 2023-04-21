@@ -112,7 +112,8 @@ Practice exercises for the Java 1 course through University of Helsinki
 -**Liquid Containers 2.0** a class which implements OOP to manage liquid in two containers
 
 ### Algorithms 
-- **Sorting**
+- **Sorting** a sorting class for sorting an array into numerical order.
+
 - **Ready-made Sorting Algorithms**
 - **Searching**
 
